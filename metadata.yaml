@@ -3,5 +3,4 @@ display_name: 心悦搜索机器人
 desc: 通过调用心悦搜索API实现资源搜索和转存再分享功能的QQ机器人插件，支持分页和多种搜索模式
 version: v1.3.6
 author: 阿立
-
 repo: https://github.com/xinhai532-coder/astrbot_plugin_xinyue_search
