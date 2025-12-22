@@ -1,0 +1,56 @@
+{
+  "bot_qq": {
+    "description": "机器人QQ号",
+    "type": "string",
+    "default": "",
+    "hint": "试用模式可留空（自动获取），正式授权必须填写"
+  },
+  "license_token": {
+    "description": "授权Token",
+    "type": "string",
+    "default": "",
+    "hint": "选填，未配置则进入试用模式（1天有效期）"
+  },
+  "api_url": {
+    "description": "API基础URL",
+    "type": "string",
+    "default": "https://aliso.vip",
+    "hint": "心悦搜索API的基础URL"
+  },
+  "api_key": {
+    "description": "API密钥",
+    "type": "string",
+    "default": "xinyue",
+    "hint": "如果需要API密钥认证，请填写"
+  },
+  "timeout": {
+    "description": "请求超时时间（秒）",
+    "type": "int",
+    "default": 30,
+    "hint": "API请求的超时时间，单位为秒"
+  },
+  "max_results": {
+    "description": "最大返回结果数量",
+    "type": "int",
+    "default": 3,
+    "hint": "每次搜索返回的最大结果数量"
+  },
+  "enable_pagination": {
+    "description": "启用分页功能",
+    "type": "bool",
+    "default": true,
+    "hint": "是否启用搜索结果的分页显示"
+  },
+  "enable_transfer": {
+    "description": "启用转存功能",
+    "type": "bool",
+    "default": true,
+    "hint": "是否启用资源转存再分享功能（Cookie将自动从心悦系统获取）"
+  },
+  "debug_mode": {
+    "description": "调试模式",
+    "type": "bool",
+    "default": false,
+    "hint": "是否启用调试模式，启用后会输出更多日志信息"
+  }
+}
