@@ -51,4 +51,5 @@ astrbot_plugin_xinyue_search/
 1. **此源码版本1.3.6和本人使用的一样，无差别，不提供技术支持
 2. **不提供免费支持，一杯奶茶即可解答你的所有疑惑
 3. **如需远程部署，请加好友，备注来意
-   <img width="580" height="298" alt="image" src="https://github.com/user-attachments/assets/4ccac3a5-62a2-49f8-bad4-d0b0aff96044" />
+
+<img width="1521" height="647" alt="ScreenShot_2025-12-23_105818_407" src="https://github.com/user-attachments/assets/7b419d83-4f5e-49c0-a618-40412e60537d" />
