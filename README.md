@@ -45,3 +45,10 @@ astrbot_plugin_xinyue_search/
 3. **依赖检查**：确保已安装Python 3.7+ 和必要依赖（aiohttp, PyYAML）
 4. **启用插件**：在AstrBot管理界面中启用插件
 5. **配置插件**：点击"搜索配置"进行插件配置
+
+# 📊写在最后
+
+1. **此源码版本1.3.6和本人使用的一样，无差别，不提供技术支持
+2. **不提供免费支持，一杯奶茶即可解答你的所有疑惑
+3. **如需远程部署，请加好友，备注来意
+   <img width="580" height="298" alt="image" src="https://github.com/user-attachments/assets/4ccac3a5-62a2-49f8-bad4-d0b0aff96044" />
