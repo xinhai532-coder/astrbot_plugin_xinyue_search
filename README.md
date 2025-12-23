@@ -49,7 +49,7 @@ astrbot_plugin_xinyue_search/
 # 📊写在最后
 
 1. 此源码版本1.3.6和本人使用的一样，无差别
-2. 不提供免费支持，一杯奶茶，即可解答你的所有疑惑
+2. 不提供免费支持，一杯咖啡，即可解答你的所有疑惑
 3. 如需远程部署，请加好友，备注来意
 
 <img width="1521" height="647" alt="ScreenShot_2025-12-23_105818_407" src="https://github.com/user-attachments/assets/7b419d83-4f5e-49c0-a618-40412e60537d" />
